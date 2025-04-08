@@ -14,12 +14,12 @@ setup(
             'keypress-app=keypress:main',  # Adjust this if you have a main function
         ],
     },
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Víctor García Castañeda',
+    author_email='victorg.castaneda@gmail.com',
     description='A simple application to simulate pressing the F16 key every minute with a counter.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/keypress-app',  # Update with your repository URL
+    url='https://github.com/vgc280683/keypress-app',  # Update with your repository URL
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',  # Update if using a different license
